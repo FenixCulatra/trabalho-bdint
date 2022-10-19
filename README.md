@@ -6,6 +6,7 @@ Trabalho desenvolvido durante a disciplina de Banco de dados
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 João Vitor Oliveira Scheidegger: joao.scheidegger@gmail.com<br>
+Harian Adami Chagas Radaelli: harianadami@gmail.com<br>
 segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
 ...<br>
 
